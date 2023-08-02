@@ -4,7 +4,6 @@
 #### 👾 Latest technologies i'm working with 
 
 <code><img width=24px src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download%20(2).png"></code>
 <code><img width=24px src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png"></code>
 
 <code> Open Source Contributor from <b>India<b> 🧑🏼‍💻</code>
