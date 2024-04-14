@@ -3,7 +3,7 @@
 
 ##### Latest technologies i'm working with 
 
-<code><img width=24px src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></code>
+<code><img width=24px src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg"></code>
 <code><img width=24px src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png"></code>
 <code><img width=24px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/512px-Chromium_Logo.svg.png"></code>
 
