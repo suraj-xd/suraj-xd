@@ -1,16 +1,19 @@
 ## Hey there, I'm   Suraj  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-#### 👾 Latest technologies i'm working with 
+##### Latest technologies i'm working with 
 
-<code><img width=24px src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+<code><img width=24px src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></code>
 <code><img width=24px src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png"></code>
+<code><img width=24px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/512px-Chromium_Logo.svg.png"></code>
+
 
 <code> Open Source Contributor from <b>India<b> 🧑🏼‍💻</code>
 <br>
 
-
+<!--
 <code> Melodic Odyssey for you : [![Spotify](https://img.shields.io/badge/spotify-%ffffff.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31rakptffjgfckhr3ur4yppujmfu?si=fxv_EWW4SruP1gwMjH_W9Q) </code>
+-->
 
 
 <!--
